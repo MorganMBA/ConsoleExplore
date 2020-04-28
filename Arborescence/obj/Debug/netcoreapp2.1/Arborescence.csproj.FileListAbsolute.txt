@@ -1,0 +1,9 @@
+C:\Users\LE BASMATI\source\repos\Arborescence\Arborescence\bin\Debug\netcoreapp2.1\Arborescence.deps.json
+C:\Users\LE BASMATI\source\repos\Arborescence\Arborescence\bin\Debug\netcoreapp2.1\Arborescence.dll
+C:\Users\LE BASMATI\source\repos\Arborescence\Arborescence\bin\Debug\netcoreapp2.1\Arborescence.pdb
+C:\Users\LE BASMATI\source\repos\Arborescence\Arborescence\obj\Debug\netcoreapp2.1\Arborescence.csprojAssemblyReference.cache
+C:\Users\LE BASMATI\source\repos\Arborescence\Arborescence\obj\Debug\netcoreapp2.1\Arborescence.csproj.CoreCompileInputs.cache
+C:\Users\LE BASMATI\source\repos\Arborescence\Arborescence\obj\Debug\netcoreapp2.1\Arborescence.AssemblyInfoInputs.cache
+C:\Users\LE BASMATI\source\repos\Arborescence\Arborescence\obj\Debug\netcoreapp2.1\Arborescence.AssemblyInfo.cs
+C:\Users\LE BASMATI\source\repos\Arborescence\Arborescence\obj\Debug\netcoreapp2.1\Arborescence.dll
+C:\Users\LE BASMATI\source\repos\Arborescence\Arborescence\obj\Debug\netcoreapp2.1\Arborescence.pdb

@@ -1,0 +1,14 @@
+C:\Users\LE BASMATI\source\repos\Arborescence\App\bin\Debug\netcoreapp2.1\App.deps.json
+C:\Users\LE BASMATI\source\repos\Arborescence\App\bin\Debug\netcoreapp2.1\App.runtimeconfig.json
+C:\Users\LE BASMATI\source\repos\Arborescence\App\bin\Debug\netcoreapp2.1\App.runtimeconfig.dev.json
+C:\Users\LE BASMATI\source\repos\Arborescence\App\bin\Debug\netcoreapp2.1\App.dll
+C:\Users\LE BASMATI\source\repos\Arborescence\App\bin\Debug\netcoreapp2.1\App.pdb
+C:\Users\LE BASMATI\source\repos\Arborescence\App\bin\Debug\netcoreapp2.1\Arborescence.dll
+C:\Users\LE BASMATI\source\repos\Arborescence\App\bin\Debug\netcoreapp2.1\Arborescence.pdb
+C:\Users\LE BASMATI\source\repos\Arborescence\App\obj\Debug\netcoreapp2.1\App.csprojAssemblyReference.cache
+C:\Users\LE BASMATI\source\repos\Arborescence\App\obj\Debug\netcoreapp2.1\App.csproj.CoreCompileInputs.cache
+C:\Users\LE BASMATI\source\repos\Arborescence\App\obj\Debug\netcoreapp2.1\App.AssemblyInfoInputs.cache
+C:\Users\LE BASMATI\source\repos\Arborescence\App\obj\Debug\netcoreapp2.1\App.AssemblyInfo.cs
+C:\Users\LE BASMATI\source\repos\Arborescence\App\obj\Debug\netcoreapp2.1\App.csproj.CopyComplete
+C:\Users\LE BASMATI\source\repos\Arborescence\App\obj\Debug\netcoreapp2.1\App.dll
+C:\Users\LE BASMATI\source\repos\Arborescence\App\obj\Debug\netcoreapp2.1\App.pdb
